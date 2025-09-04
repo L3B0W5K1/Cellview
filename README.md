@@ -35,6 +35,7 @@ git clone https://github.com/L3B0W5K1/cellview.git
 cd cellview
 sudo python cellview.py
 ```
+---
 
 ## Upcoming functionality
 
