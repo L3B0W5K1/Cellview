@@ -33,7 +33,7 @@ It uses [`mmcli`](https://www.freedesktop.org/wiki/Software/ModemManager/) under
 ```bash
 git clone https://github.com/L3B0W5K1/cellview.git
 cd cellview
-sudo python cellview.py
+sudo python3 cellview.py
 ```
 ---
 
